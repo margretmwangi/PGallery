@@ -1,6 +1,6 @@
 # Pyshop Gallery
 #### Its a gallery that displays the image's  and details on the images
-#### By **{List of contributors}**
+#### By: MwangiMargaret
 ## Description
 One will be able to view products and their details 
 ## Setup/Installation Requirements
