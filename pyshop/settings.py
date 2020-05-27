@@ -25,7 +25,7 @@ SECRET_KEY = '83upq1%d6iurz7gym6u3jhsf6m0$mw_ao0hwd8du*3o^_1f=xs'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [ 'pygallerys1.herokuapp.com' ]
 
 
 # Application definition
